@@ -1,0 +1,6 @@
+ale-py
+gym[atari]==0.19.0
+autorom
+pyglet
+stable_baselines
+tensorflow==1.15.0

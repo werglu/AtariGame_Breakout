@@ -1,3 +1,0 @@
-ale-py
-gym[atari]
-autorom
